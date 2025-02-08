@@ -3,7 +3,8 @@
 ## **📌 Project Overview**  
 This project was developed under the **EE-365 Industrial Instrumentation and Measurements** course at **Habib University** during Spring 2020. The objective was to design and build an **analog multimeter** using a **d'Arsonval Galvanometer**, integrating three key measurement modes: **voltmeter**, **ammeter**, and **ohmmeter**. The project explores the challenges of analog instrumentation, including **calibration, component selection, and design integration**.  
 
-**REPORT:** 
+**REPORT: https://github.com/SarwanShah/HU_2020_Analog-Multimeter-Design/blob/main/Final_Report.pdf** 
+
 ---
 
 ## **🛠 Project Features**  
