@@ -1,13 +1,13 @@
 # Analog Multimeter Project  
 
-## **📌 Project Overview**  
+## **Project Overview**  
 This project was developed under the **EE-365 Industrial Instrumentation and Measurements** course at **Habib University** during Spring 2020. The objective was to design and build an **analog multimeter** using a **d'Arsonval Galvanometer**, integrating three key measurement modes: **voltmeter**, **ammeter**, and **ohmmeter**. The project explores the challenges of analog instrumentation, including **calibration, component selection, and design integration**.  
 
 **REPORT: https://github.com/SarwanShah/HU_2020_Analog-Multimeter-Design/blob/main/Final_Report.pdf** 
 
 ---
 
-## **🛠 Project Features**  
+## **Project Features**  
 - **Voltmeter:** Measures voltages in the range of **0 to 50V**.
 - **Ammeter:** Measures currents in the range of **0 to 100mA**.
 - **Ohmmeter:** Measures resistances from **1 to 100Ω**, with provisions for **10% battery variation**.
@@ -16,7 +16,7 @@ This project was developed under the **EE-365 Industrial Instrumentation and Mea
 
 ---
 
-## **🏗 Project Implementation**  
+## **Project Implementation**  
 ### ➤ **Galvanometer Calibration**  
 - **Internal Resistance (Rm):** Measured as **218.4Ω**.
 - **Full-Scale Deflection Current (IFSD):** Determined to be **4.195mA** through gradual voltage application.
@@ -35,7 +35,7 @@ This project was developed under the **EE-365 Industrial Instrumentation and Mea
 
 ---
 
-## **🖥 Simulation Results**  
+## **Simulation Results**  
 ### ➤ **Ammeter Simulation**  
 - Linear relationship observed between input current (0–100mA) and galvanometer deflection current (up to **4.195mA**).
 
@@ -47,7 +47,7 @@ This project was developed under the **EE-365 Industrial Instrumentation and Mea
 
 ---
 
-## **🔧 Hardware Implementation**  
+## **Hardware Implementation**  
 - The circuit was implemented on a **veroboard**, requiring extensive soldering and optimization to minimize interference.
 - A **manual jumper setup** was used to switch between modes instead of slide switches, reducing the risk of simultaneous mode activation.
 - Additional resistors
